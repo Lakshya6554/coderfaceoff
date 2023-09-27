@@ -1,10 +1,11 @@
 import React from 'react'
+import img1 from './Odyssey.svg'
 
 const Footer = () => {
     return (
         <div className='foot'>
-            <div>
-                Logo
+            <div className="logo">
+                <img src={img1} alt="" />
             </div>
             <div className="options">
                 <span>Stay Connected</span>

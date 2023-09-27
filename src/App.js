@@ -17,6 +17,7 @@ function App() {
       <Home4 />
       <Home5 />
       <Footer />
+      <span>[contact@Odyssey.com]</span>
     </div>
   );
 }

@@ -12,17 +12,24 @@
 }
 
 .card-number {
-  font-size: 24px;
+  font-size: 64px;
+  text-align: start;
   font-weight: bold;
-  color: #333; /* Change the text color as needed */
+  color: #a9c2cb; /* Change the text color as needed */
 }
 
 .card-title {
   font-size: 18px;
+  font-weight: 700;
   margin-top: 10px;
   color: #555; /* Change the text color as needed */
 }
-
+.card-title1 {
+  font-size: 25px;
+  margin-top: 10px;
+  color: #555;
+  font-weight: 500;
+}
 .card-content {
   margin-top: 10px;
   color: #777; /* Change the text color as needed */

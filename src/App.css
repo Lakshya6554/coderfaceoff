@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.home1 {
+  padding: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,11 +38,162 @@
     transform: rotate(360deg);
   }
 }
+.carddiv1 {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
 .carddiv {
   display: flex;
 }
 
 .foot {
   display: flex;
+  padding: 30px;
   justify-content: space-between;
+}
+.hero1 {
+  background-image: url("./Rectangle\ 3.svg");
+  width: 100%;
+  height: 50vh;
+  border-radius: 20px;
+  margin-top: -30px;
+}
+.hero1 div span {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: 60px;
+  font-weight: 800;
+}
+.a12 {
+  padding: 50px;
+  margin-left: -1000px;
+  /* margin-bottom: -50px; */
+}
+.text67 {
+  text-align: start;
+}
+.img12 {
+  position: absolute;
+  width: 40%;
+}
+.text23 {
+  /* display: flex; */
+  padding: 20px;
+  margin-top: 50px;
+  width: 30%;
+}
+.buttons1 {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+.getstartbtn {
+  margin-top: 20px;
+  background-color: #0d0f12;
+  color: #fff;
+  padding: 15px 20px;
+  border-radius: 15px;
+}
+.abcbtn {
+  background: #fff;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  justify-content: center;
+}
+.logos-12 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 120px;
+}
+.home35 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+.card-div {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+.text-div {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  font-weight: 800;
+}
+.search {
+  width: 500px;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.searchbtn {
+  background-color: #a9c2cb;
+  padding: 20px 20px;
+  border-radius: 20px;
+  border: none;
+  margin-left: 10px;
+  color: #fff;
+}
+
+.home45 {
+  background-image: url("./Rectangle\ 8.svg");
+  width: 100%;
+  height: 40vh;
+  border-radius: 20px;
+  padding: 30px 0px;
+}
+.a12345 {
+  padding: 30px;
+}
+.laks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home4text {
+  width: 70%;
+  font-size: 60px;
+  color: #fff;
+  font-weight: 800;
+}
+.carddivparent {
+  position: relative;
+}
+.carddiv {
+  position: absolute;
+  top: 0px;
+}
+.home556 {
+  margin-top: 150px;
+  background-image: url("./Rectangle\ 504.png");
+  width: 100%;
+  height: 50vh;
+  border-radius: 20px;
+}
+.home5567 {
+  padding: 30px;
+}
+.home556 {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  /* padding-left: 50px; */
+}
+.home59 {
+  padding-left: 50px;
+  font-size: 50px;
+  font-weight: 700;
+}
+.home60 {
+  padding-left: 50px;
 }

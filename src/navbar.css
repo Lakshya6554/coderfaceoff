@@ -4,8 +4,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333; /* Change the background color as needed */
-  color: #fff; /* Change the text color as needed */
+  /* background-color: #333; Change the background color as needed */
+  /* color: #fff; Change the text color as needed */
+  padding: 35px;
+}
+.signin {
+  background-color: #0d0f12;
+  color: #fff;
+  border-radius: 10px;
   padding: 10px 20px;
 }
 
@@ -16,7 +22,8 @@
 
 .options {
   display: flex;
-  gap: 20px;
+  align-items: center;
+  gap: 30px;
 }
 
 .options a {
